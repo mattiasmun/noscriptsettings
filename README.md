@@ -1,0 +1,2 @@
+# noscriptsettings
+NoScript Settings
