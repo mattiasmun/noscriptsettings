@@ -68,8 +68,6 @@
         "§:fedoraproject.org",
         "§:google.se",
         "§:duckduckgo.com",
-        "§:xvideos.com",
-        "§:xvideos-cdn.com",
         "§:svtplay.se",
         "§:svtstatic.se",
         "§:lp4.io",
@@ -382,7 +380,8 @@
         "§:archive.org",
         "§:cyberciti.biz",
         "§:perl.org",
-        "§:livechatinc.com"
+        "§:livechatinc.com",
+        "binarypuzzle.com"
       ],
       "untrusted": [],
       "custom": {}
