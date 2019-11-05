@@ -381,7 +381,8 @@
         "§:cyberciti.biz",
         "§:perl.org",
         "§:livechatinc.com",
-        "binarypuzzle.com"
+        "binarypuzzle.com",
+        "§:computerhope.com"
       ],
       "untrusted": [],
       "custom": {}
