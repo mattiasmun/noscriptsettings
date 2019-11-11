@@ -382,7 +382,8 @@
         "§:perl.org",
         "§:livechatinc.com",
         "binarypuzzle.com",
-        "§:computerhope.com"
+        "§:computerhope.com",
+        "§:coinbase.com"
       ],
       "untrusted": [],
       "custom": {}
