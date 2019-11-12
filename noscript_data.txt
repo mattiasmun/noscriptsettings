@@ -383,7 +383,11 @@
         "§:livechatinc.com",
         "binarypuzzle.com",
         "§:computerhope.com",
-        "§:coinbase.com"
+        "§:coinbase.com",
+        "§:bluemix.net",
+        "§:rawgit.com",
+        "§:watsonplatform.net",
+        "§:ibm.com"
       ],
       "untrusted": [],
       "custom": {}
