@@ -388,7 +388,8 @@
         "§:rawgit.com",
         "§:watsonplatform.net",
         "§:ibm.com",
-        "§:talktotransformer.com"
+        "§:talktotransformer.com",
+        "§:jamendo.com"
       ],
       "untrusted": [],
       "custom": {}
