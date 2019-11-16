@@ -387,7 +387,8 @@
         "§:bluemix.net",
         "§:rawgit.com",
         "§:watsonplatform.net",
-        "§:ibm.com"
+        "§:ibm.com",
+        "§:talktotransformer.com"
       ],
       "untrusted": [],
       "custom": {}
