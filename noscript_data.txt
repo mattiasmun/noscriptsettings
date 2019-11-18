@@ -389,7 +389,8 @@
         "§:watsonplatform.net",
         "§:ibm.com",
         "§:talktotransformer.com",
-        "§:jamendo.com"
+        "§:jamendo.com",
+        "§:flashback.org"
       ],
       "untrusted": [],
       "custom": {}
