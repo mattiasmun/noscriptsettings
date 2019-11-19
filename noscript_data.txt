@@ -394,7 +394,8 @@
         "§:trello.com",
         "§:trellocdn.com",
         "§:gamingonlinux.com",
-        "§:mod.io"
+        "§:mod.io",
+        "§:wildfiregames.com"
       ],
       "untrusted": [],
       "custom": {}
