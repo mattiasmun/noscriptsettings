@@ -393,7 +393,8 @@
         "§:flashback.org",
         "§:trello.com",
         "§:trellocdn.com",
-        "§:gamingonlinux.com"
+        "§:gamingonlinux.com",
+        "§:mod.io"
       ],
       "untrusted": [],
       "custom": {}
