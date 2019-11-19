@@ -390,7 +390,10 @@
         "§:ibm.com",
         "§:talktotransformer.com",
         "§:jamendo.com",
-        "§:flashback.org"
+        "§:flashback.org",
+        "§:trello.com",
+        "§:trellocdn.com",
+        "§:gamingonlinux.com"
       ],
       "untrusted": [],
       "custom": {}
