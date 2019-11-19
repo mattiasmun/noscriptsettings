@@ -396,7 +396,8 @@
         "§:gamingonlinux.com",
         "§:mod.io",
         "§:wildfiregames.com",
-        "§:mozilla.org"
+        "§:mozilla.org",
+        "§:producthunt.com"
       ],
       "untrusted": [],
       "custom": {}
