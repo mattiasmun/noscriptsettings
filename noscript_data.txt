@@ -401,7 +401,11 @@
         "§:deviantart.com",
         "§:deviantart.net",
         "§:parastorage.com",
-        "§:sentry-cdn.com"
+        "§:sentry-cdn.com",
+        "§:neosensory.com",
+        "§:gravatar.com",
+        "§:ted.com",
+        "§:tedcdn.com"
       ],
       "untrusted": [],
       "custom": {}
