@@ -405,7 +405,8 @@
         "§:neosensory.com",
         "§:gravatar.com",
         "§:ted.com",
-        "§:tedcdn.com"
+        "§:tedcdn.com",
+        "§:litix.io"
       ],
       "untrusted": [],
       "custom": {}
