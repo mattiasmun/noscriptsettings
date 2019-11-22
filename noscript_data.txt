@@ -397,7 +397,11 @@
         "§:mod.io",
         "§:wildfiregames.com",
         "§:mozilla.org",
-        "§:producthunt.com"
+        "§:producthunt.com",
+        "§:deviantart.com",
+        "§:deviantart.net",
+        "§:parastorage.com",
+        "§:sentry-cdn.com"
       ],
       "untrusted": [],
       "custom": {}
