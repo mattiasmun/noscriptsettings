@@ -406,7 +406,9 @@
         "§:gravatar.com",
         "§:ted.com",
         "§:tedcdn.com",
-        "§:litix.io"
+        "§:litix.io",
+        "§:crowdin.com",
+        "§:d2srrzh48sp2nh.cloudfront.net"
       ],
       "untrusted": [],
       "custom": {}
