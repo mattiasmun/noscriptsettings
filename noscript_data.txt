@@ -408,7 +408,8 @@
         "§:tedcdn.com",
         "§:litix.io",
         "§:crowdin.com",
-        "§:d2srrzh48sp2nh.cloudfront.net"
+        "§:d2srrzh48sp2nh.cloudfront.net",
+        "§:openai.com"
       ],
       "untrusted": [],
       "custom": {}
