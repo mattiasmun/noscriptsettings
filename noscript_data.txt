@@ -410,7 +410,8 @@
         "§:crowdin.com",
         "§:d2srrzh48sp2nh.cloudfront.net",
         "§:openai.com",
-        "§:patientenkat.se"
+        "§:patientenkat.se",
+        "§:efn.no"
       ],
       "untrusted": [],
       "custom": {}
