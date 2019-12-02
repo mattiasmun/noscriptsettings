@@ -412,7 +412,13 @@
         "§:openai.com",
         "§:patientenkat.se",
         "§:efn.no",
-        "§:bankid.com"
+        "§:bankid.com",
+        "mental-math-trainer.com",
+        "ajax.googleapis.com",
+        "googlesyndication.com",
+        "facebook.net",
+        "google.com",
+        "twitter.com"
       ],
       "untrusted": [],
       "custom": {}
