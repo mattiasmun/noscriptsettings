@@ -411,7 +411,8 @@
         "§:d2srrzh48sp2nh.cloudfront.net",
         "§:openai.com",
         "§:patientenkat.se",
-        "§:efn.no"
+        "§:efn.no",
+        "§:bankid.com"
       ],
       "untrusted": [],
       "custom": {}
