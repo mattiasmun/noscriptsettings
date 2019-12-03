@@ -418,7 +418,9 @@
         "googlesyndication.com",
         "facebook.net",
         "google.com",
-        "twitter.com"
+        "twitter.com",
+        "§:pressablecdn.com",
+        "§:omgubuntu.co.uk"
       ],
       "untrusted": [],
       "custom": {}
